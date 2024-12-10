@@ -1,0 +1,21 @@
+[X] DumbPrior 
+[X] Snake
+[X] LeakyReLU
+
+[O] AdaptiveInstanceNormalization
+[O] Residual
+[O] DilatedUnit
+[O] Sequential
+[O] ModuleList
+[O] CachedConvTranspose1d
+[O] CachedConv1d
+[O] AlignBranches
+[O] CachedPadding1d
+[O] CachedSequential
+[O] NoiseGeneratorV2
+[O] CachedPQMF
+[O] Identity
+[O] VariationalEncoder
+[O] EncoderV2
+[O] GeneratorV2
+[O] VariationalScriptedRAVE
